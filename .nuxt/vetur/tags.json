@@ -1,0 +1,26 @@
+{
+  "Experiences": {
+    "description": "Auto imported from components/Experiences.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Languages": {
+    "description": "Auto imported from components/Languages.vue"
+  },
+  "MainSection": {
+    "description": "Auto imported from components/MainSection.vue"
+  },
+  "NavigationBar": {
+    "description": "Auto imported from components/NavigationBar.vue"
+  },
+  "Skills": {
+    "description": "Auto imported from components/Skills.vue"
+  },
+  "SegmentsLeft": {
+    "description": "Auto imported from components/Segments/Left.vue"
+  },
+  "SegmentsRight": {
+    "description": "Auto imported from components/Segments/Right.vue"
+  }
+}
