@@ -8,7 +8,7 @@
             </div>
                 <div class="flex flex-col mx-auto items-center">
                     <p class="text-xl font-semibold text-green-500">Mathiam Mbow</p>
-                    <p class="text-gray-500">Webdev & Data scientist</p>
+                    <p class="text-gray-500">Developer & Data scientist</p>
                 </div>
             </div>
 
